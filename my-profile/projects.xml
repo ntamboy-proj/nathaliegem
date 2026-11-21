@@ -1,0 +1,37 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<projects>
+
+    <project>
+        <title>Jellatech - Top-Down Game</title>
+        <description>
+            A top-down game development project where I explored
+            interactive media, game design, and the process of
+            turning creative ideas into an interactive experience.
+        </description>
+        <date>May 2025</date>
+    </project>
+
+    <project>
+        <title>2D Rotoscope Animation</title>
+        <description>
+            A 2D animation project using the rotoscope technique.
+            Through this activity, I explored movement, visual
+            storytelling, and the creative process of animation.
+        </description>
+        <date>September 2026</date>
+    </project>
+
+    <project>
+        <title>WhatsApp Sticker Design</title>
+        <description>
+            A creative project where I designed stickers for
+            WhatsApp using the Sketch app. It allowed me to explore
+            digital illustration, graphic design, and visual
+            expression through simple and creative sticker designs.
+        </description>
+        <date>2020-present</date>
+    </project>
+
+</projects>
